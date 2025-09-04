@@ -1,0 +1,19 @@
+{
+  "name": "augmented-reality-bauprojekt",
+  "version": "1.0.0",
+  "description": "Eine Anwendung zur Visualisierung von Bauprojekten in Augmented Reality.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "dependencies": {
+    "three": "^0.126.1",
+    "@react-three/fiber": "^7.0.9"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "keywords": ["AR", "3D", "Bauprojekt"],
+  "author": "Ihr Name",
+  "license": "MIT"
+}
