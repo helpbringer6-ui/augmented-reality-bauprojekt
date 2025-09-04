@@ -1,7 +1,7 @@
 {
   "name": "augmented-reality-bauprojekt",
   "version": "1.0.0",
-  "description": "Eine Anwendung zur Visualisierung von Bauprojekten in Augmented Reality.",
+  "description": "An application for visualizing construction projects in Augmented Reality.",
   "main": "index.html",
   "scripts": {
     "start": "live-server ."
